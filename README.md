@@ -1,3 +1,4 @@
-# Location-alarm-app-using-Geo-location-API-
+# Location-alarm-app-using-Geo-location-API
 Alarm ,silent ,notification show
-CSE 3200:System Development Project
+
+<b>CSE 3200:System Development Project </b>
